@@ -46,33 +46,6 @@ Tip: For each project include a one-liner, key tech, and link to repo or demo.
 
 ---
 
-## GitHub Stats
-
-<!-- A clean, attractive two-column layout for stats and contribution graph -->
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-  <!-- Main GitHub stats card -->
-  ![Janendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanendraGit&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true)
-
-  <!-- Top languages, compact -->
-  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JanendraGit&layout=compact&theme=synthwave&hide_border=true)
-
-  <!-- Streaks & trophies for kudos -->
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JanendraGit&theme=synthwave&hide_border=true)
-
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=JanendraGit&theme=gruvbox&no-bg=true&no-frame=true)
-
-    </td>
-    <td valign="top" width="50%">
-
-  <!-- Contribution graph with a clean theme -->
-  ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=JanendraGit&theme=react-dark&hide_border=true)
-
-  <!-- Optional: a quick summary box -->
-  
   **Quick Summary**
 
   - Total commits: see stats above
@@ -88,9 +61,8 @@ Tip: For each project include a one-liner, key tech, and link to repo or demo.
 ## Get in Touch
 
 - GitHub: [@JanendraGit](https://github.com/JanendraGit)
-- Email: your-email@example.com
-- LinkedIn: [Add your LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- Twitter: [@your_twitter](https://twitter.com/your_twitter)
+- Email: janendra.silva2001@gmail.com
+- LinkedIn: http://www.linkedin.com/in/janendra-de-silva-085a01376
 
 ---
 
