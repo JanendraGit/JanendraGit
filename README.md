@@ -4,13 +4,13 @@
 [![Repo](https://img.shields.io/badge/Repo-JanendraGit-blue?style=flat)](https://github.com/JanendraGit)
 [![Top Langs](https://img.shields.io/github/languages/top/JanendraGit/JanendraGit?color=yellow&style=flat)](https://github.com/JanendraGit)
 
-Welcome to my GitHub profile README! I'm Janendra (GitHub: `JanendraGit`). This README is a polished, friendly introduction that you can customize with your personal details, projects, and links. I created a clean structure so your visitors can quickly learn who you are, what you build, and how to reach you.
+Welcome to my GitHub profile README! I'm Janendra (GitHub: `JanendraGit`). This README is a polished, friendly introduction that you can customize with your personal details, projects, and links. I love building clean, maintainable software and exploring new tech.
 
 ---
 
 ## About Me
 
-I&apos;m an open-source enthusiast and software developer. I enjoy building clean, maintainable software and learning new technologies. This README is intentionally generic and ready for your personal details — update the sections below to match your real profile, experience, and interests.
+I'm an open-source enthusiast and software developer. I enjoy building clean, maintainable software and learning new technologies. This README is ready for your personal details.
 
 - 🔭 I’m currently working on: Add your current project or role here
 - 🌱 I’m currently learning: Add new technologies you are learning
@@ -48,15 +48,40 @@ Tip: For each project include a one-liner, key tech, and link to repo or demo.
 
 ## GitHub Stats
 
-![Janendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanendraGit&show_icons=true&theme=radical)
+<!-- A clean, attractive two-column layout for stats and contribution graph -->
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JanendraGit&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
----
+  <!-- Main GitHub stats card -->
+  ![Janendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanendraGit&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true)
 
-## Contribution Graph
+  <!-- Top languages, compact -->
+  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JanendraGit&layout=compact&theme=synthwave&hide_border=true)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=JanendraGit&theme=github)
+  <!-- Streaks & trophies for kudos -->
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JanendraGit&theme=synthwave&hide_border=true)
+
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=JanendraGit&theme=gruvbox&no-bg=true&no-frame=true)
+
+    </td>
+    <td valign="top" width="50%">
+
+  <!-- Contribution graph with a clean theme -->
+  ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=JanendraGit&theme=react-dark&hide_border=true)
+
+  <!-- Optional: a quick summary box -->
+  
+  **Quick Summary**
+
+  - Total commits: see stats above
+  - Most used languages: see 'Top languages' card
+  - Active streak: check the streak card
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -71,6 +96,6 @@ Tip: For each project include a one-liner, key tech, and link to repo or demo.
 
 ## Customize this README
 
-This file is designed to be easy to edit. Replace placeholders (like project links, skills, and contact info) with your real data. If you want, tell me more about your experience, main projects, and the image or badges you want included — I will update the README to match your profile perfectly.
+This file is designed to be easy to edit. Replace placeholders (like project links, skills, and contact info) with your real data. If you want, tell me more about your experience, main projects, and goals and I can help refine this further.
 
 Thanks for reading — welcome to my GitHub profile! 🚀
