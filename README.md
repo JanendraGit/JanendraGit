@@ -1,53 +1,76 @@
-# JanendraGit
+# Hi there, I'm Janendra 👋
 
-Welcome to my personal repository. This README is a starter template you can customize to describe your project, how to run it, and how others can contribute.
+[![Followers](https://img.shields.io/github/followers/JanendraGit?label=Follow&style=social)](https://github.com/JanendraGit)
+[![Repo](https://img.shields.io/badge/Repo-JanendraGit-blue?style=flat)](https://github.com/JanendraGit)
+[![Top Langs](https://img.shields.io/github/languages/top/JanendraGit/JanendraGit?color=yellow&style=flat)](https://github.com/JanendraGit)
 
-## About
+Welcome to my GitHub profile README! I'm Janendra (GitHub: `JanendraGit`). This README is a polished, friendly introduction that you can customize with your personal details, projects, and links. I created a clean structure so your visitors can quickly learn who you are, what you build, and how to reach you.
 
-A short description about this repository and what you plan to build or store here.
+---
 
-## Features
+## About Me
 
-- Feature 1 — Brief description
-- Feature 2 — Brief description
+I&apos;m an open-source enthusiast and software developer. I enjoy building clean, maintainable software and learning new technologies. This README is intentionally generic and ready for your personal details — update the sections below to match your real profile, experience, and interests.
 
-## Getting Started
+- 🔭 I’m currently working on: Add your current project or role here
+- 🌱 I’m currently learning: Add new technologies you are learning
+- 👯 I’m looking to collaborate on: Describe the types of projects you want to collaborate on
+- 💬 Ask me about: Your areas of expertise (e.g., web dev, APIs, DevOps)
+- 📫 How to reach me: your-email@example.com
+- ⚡ Fun fact: A short, friendly fact about you (hobby, interest, etc.)
 
-These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
+---
 
-### Prerequisites
+## Skills & Tools
 
-- List any required software (e.g., Git, Node.js, Python)
+Below are common skills. Replace these with the technologies you use most.
 
-### Installation
+- Languages: JavaScript, TypeScript, Python, Java
+- Frontend: React, Next.js, HTML, CSS
+- Backend: Node.js, Express, FastAPI
+- Databases: PostgreSQL, MongoDB
+- DevOps & Cloud: Docker, GitHub Actions, AWS
+- Other: Git, REST APIs, GraphQL, Testing (Jest, PyTest)
 
-1. Clone the repo:
+---
 
-   ```bash
-   git clone https://github.com/JanendraGit/JanendraGit.git
-   cd JanendraGit
-   ```
+## Featured Projects
 
-2. Follow project-specific setup steps (install dependencies, create config files, etc.)
+> Replace these placeholders with your actual repositories and short descriptions.
 
-## Usage
+- [Project One](https://github.com/JanendraGit/project-one) — Short description explaining what the project does and the technologies used.
+- [Project Two](https://github.com/JanendraGit/project-two) — Another short description with links or screenshots.
+- [Project Three](https://github.com/JanendraGit/project-three) — A one-line explanation of the impact or purpose.
 
-Provide examples and code snippets showing how to use or run the project.
+Tip: For each project include a one-liner, key tech, and link to repo or demo.
 
-```bash
-# example command
-```
+---
 
-## Contributing
+## GitHub Stats
 
-Contributions are welcome! Please open an issue or submit a pull request with a clear description of the change.
+![Janendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanendraGit&show_icons=true&theme=radical)
 
-## License
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JanendraGit&layout=compact&theme=radical)
 
-This project is currently unlicensed. Add a license file if you want others to use your code.
+---
 
-## Contact
+## Contribution Graph
 
-Your Name - your.email@example.com
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=JanendraGit&theme=github)
 
-Project Link: https://github.com/JanendraGit/JanendraGit
+---
+
+## Get in Touch
+
+- GitHub: [@JanendraGit](https://github.com/JanendraGit)
+- Email: your-email@example.com
+- LinkedIn: [Add your LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- Twitter: [@your_twitter](https://twitter.com/your_twitter)
+
+---
+
+## Customize this README
+
+This file is designed to be easy to edit. Replace placeholders (like project links, skills, and contact info) with your real data. If you want, tell me more about your experience, main projects, and the image or badges you want included — I will update the README to match your profile perfectly.
+
+Thanks for reading — welcome to my GitHub profile! 🚀
